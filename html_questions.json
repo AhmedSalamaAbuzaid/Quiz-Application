@@ -1,0 +1,74 @@
+[
+    {
+        "title" : "why we use <br> ELement ?",
+        "answers_1" : "to make bold ",
+        "answers_2" : "to make text italic ",
+        "answers_3" : "to add breakline",
+        "answers_4" : "to add space ",
+        "right_answer" : "to add breakline"
+    },
+    {
+        "title" : " When should you use the <article> element?",
+        "answers_1" : "For blog posts and other social media items",
+        "answers_2" : "When the content stands alone as a unit, is suitable for syndication, or is reusable",
+        "answers_3" : "For the main content area of your website",
+        "answers_4" : "To associate comments with a blog post",
+        "right_answer" : "When the content stands alone as a unit, is suitable for syndication, or is reusable"
+    },
+    {
+        "title" : " What is the difference between the <head> and <header> tags",
+        "answers_1" : "There is only one <head> tag per page, while there may be many <header> tags",
+        "answers_2" : " The <head> tag may contain CSS and Javascript links, while the <header> tag may contain headings and navigational links.",
+        "answers_3" : "The <head> tag contains meta information, while the <header> tag contains navigation, logos, and other page identifying content.",
+        "answers_4" : "all of these answers",
+        "right_answer" : "all of these answers"
+    },
+    {
+        "title" : "What is the difference between the <div> and <span> tags?",
+        "answers_1" : "<div> is used where a generic block-level tag is needed, while <span> is used where a generic inline tag is needed.",
+        "answers_2" : "<div> is used for major divisions on a page, while <span> is used to span across columns.",
+        "answers_3" : "<div> is the industry-standard default tag, but you could use <span> if you prefer.",
+        "answers_4" : "<div> is used where a generic inline tag is needed, while <span> is used where a generic block-level tag is needed.",
+        "right_answer" : "<div> is used where a generic block-level tag is needed, while <span> is used where a generic inline tag is needed."
+    },
+    {
+        "title" : " What are the best examples of void elements",
+        "answers_1" : "<link><meta><title>",
+        "answers_2" : "<br><base><source>",
+        "answers_3" : "<input><br><p>",
+        "answers_4" : "<area><embed><strong>",
+        "right_answer" : "<br><base><source>"
+    },
+    {
+        "title" : " In HTML5, which tag or tags embed a webpage inside of a webpage?",
+        "answers_1" : "<iframe>, <frame>, and <frameset>",
+        "answers_2" : "<iframe>",
+        "answers_3" : "<frame>",
+        "answers_4" : "<frame> and <frameset>",
+        "right_answer" : "<iframe>"
+    },
+    {
+        "title" : "why we use <br> ELement ?",
+        "answers_1" : "to make bold here",
+        "answers_2" : "to make text italic ",
+        "answers_3" : "to add breakline",
+        "answers_4" : "to add space ",
+        "right_answer" : "to add breakline"
+    },
+    {
+        "title" : "Where do <header> and <footer> tags typically occur?",
+        "answers_1" : "as children of <body>, <article>, <aside>, and <section> tags",
+        "answers_2" : "as children of <body>, <article>, <table>, and <section> tags",
+        "answers_3" : "as children of <body>, <article>, <aside>, <nav>, and <section> tags",
+        "answers_4" : "as children of <body>, <article>, and <section> tags",
+        "right_answer" : "as children of <body>, <article>, and <section> tags"
+    },
+    {
+        "title" : "What is the best way to apply bold styling to text?",
+        "answers_1" : "<strong>",
+        "answers_2" : "Use CSS",
+        "answers_3" : "<bold>",
+        "answers_4" : "<b>",
+        "right_answer" : "<strong>"
+    }
+]
