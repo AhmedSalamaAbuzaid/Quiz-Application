@@ -110,3 +110,25 @@ body{
 .quiz-app .results span.perfect {
     color: green;
 }
+@media (max-width:676px) {
+    .quiz-app .quiz-area h2{
+        font-size: 11px;
+    }
+    .quiz-app .answers-area  {
+        padding: 0 5px 5px;
+    }
+    .quiz-app .answers-area .answer label {
+        font-size: 9px;
+    }
+    .quiz-app .answers-area .answer  {
+        padding: 10px;
+    }
+    .quiz-app .quiz-area {
+        padding: 10px;
+        margin-top: 10px;
+        height: 50px;
+    }
+    .quiz-app .results {
+        font-size: 30px !important;
+    }
+}
